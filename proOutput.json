@@ -7,6 +7,14 @@
      "l1":"Enter an Integer number:",
      "l2":"78",
      "l3":"Entered number is even"
+  },
+  "three":{
+     "l1":"Enter first binary number: 11100",
+     "l2":"Enter second binary number: 10101",
+     "l3":"Output: 110001"
+    
+
+
   }
   }
 }
