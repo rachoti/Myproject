@@ -1,5 +1,5 @@
 {
-  "output":[
+  "output":{
   "one":{
      "l1":"Sum of these numbers: 20"
   },
@@ -8,5 +8,5 @@
      "l2":"78",
      "l3":"Entered number is even"
   }
-  ]
+  }
 }
