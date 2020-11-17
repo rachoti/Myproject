@@ -1,0 +1,12 @@
+{
+  "output":[
+  "one":{
+     "l1":"Sum of these numbers: 20"
+  },
+  "two":{
+     "l1":"Enter an Integer number:",
+     "l2":"78",
+     "l3":"Entered number is even"
+  }
+  ]
+}
