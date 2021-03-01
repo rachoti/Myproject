@@ -19,6 +19,7 @@
      "l1":"Sum is: 6.7 + 7.5i"
   },
   "05":{
+    "input":"import java.util.Scanner ; public class Demo { public static void main ( String args[]) { Scanner scan = new Scanner( System.in) ; System.out.print( ' Enter first number: ' ) ; int numOne = scan.nextInt() ; System.out.print( ' Enter second number: ' ) ; int numTwo = scan.nextInt() ; scan.close() ; int product = numOne * numTwo ; System.out.println( ' Output: ' + product) ; } }",
     "l1":"Enter first number: 15",
     "l2":"Enter second number: 6",
     "l3":"Output: 90"
