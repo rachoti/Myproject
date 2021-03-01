@@ -25,9 +25,10 @@
     "l3":"Output: 90"
   },
   "06":{
-    "l1":"",
-    "l2":"",
-    "l3":""
+    "input":"import java.util.Scanner ; public class Demo { public static void main( String args[]) { int year ; int four = 4 ; int hundred = 100 ; int fourhundred = 400 ; Scanner scan = new Scanner( System.in) ; System.out.println( ' Enter any Year: ' ) ; year = scan.nextInt() ; scan.close() ; boolean isLeap = false ; if ( year % four == 0) { if ( year % hundred == 0) { if ( year % fourhundred == 0) { isLeap = true ; } else { isLeap = false ; } } else { isLeap = true ; } } else { isLeap = false ; } if ( isLeap == true ) { System.out.println( year + ' is a Leap Year.' ) ; } else { System.out.println( year + ' is not a Leap Year.' ) ; } } }",
+    "l1":"Enter any Year: ",
+    "l2":"2001",
+    "l3":"2001 is not a Leap Year."
   },
   "07":{
     "l1":"",
