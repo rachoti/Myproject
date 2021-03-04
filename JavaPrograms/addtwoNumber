@@ -1,4 +1,4 @@
-`class CharToStringDemo
+class CharToStringDemo
 {
 public static void main(String args[])
 {
@@ -8,4 +8,4 @@ System.out.println( str+ ": is String");
 String str2 = String.valueOf(ch);
 System.out.println( str2+ ": is String");
 }
-}`
+}
